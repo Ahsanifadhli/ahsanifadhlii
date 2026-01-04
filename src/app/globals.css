@@ -1,26 +1,18 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Di Tailwind v4, kita mendefinisikan warna custom 
+  langsung di dalam blok @theme menggunakan variabel CSS 
+*/
+@theme {
+  --color-darkBlue: #0a0f1c;
+  --color-deepBlue: #1e3a8a;
+  --color-neonBlue: #38bdf8;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* Base styles */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* Kita gunakan variabel warna yang baru dibuat */
+  background-color: var(--color-darkBlue); 
+  color: white;
+  overflow-x: hidden;
 }

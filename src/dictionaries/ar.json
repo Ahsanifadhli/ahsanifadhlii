@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "الموضوع",
+    "tech": "المهارات",
+    "portfolio": "أعمالي",
+    "contact": "تواصل معي"
+  },
+  "hero": {
+    "greeting": "مرحباً، أنا",
+    "role": "Web Developer",
+    "description": "أساعد الشركات في بناء حضور رقمي فريد وتفاعلي وموجه نحو النتائج.",
+    "btn_hire": "وظفني",
+    "btn_portfolio": "شاهد أعمالي",
+    "typewriter": [
+      "Web & App Developer.",
+      "UI/UX Designer.",
+      "Freelancer.",
+      "AI Enthusiast."
+    ]
+  },
+  "about": {
+    "title": "من أنا",
+    "subtitle": "الشغف يقود",
+    "subtitle_highlight": "الكمال.",
+    "desc_1": "مرحباً! أنا Web Developer مكرس لإنشاء تجارب رقمية استثنائية.",
+    "desc_2": "أؤمن أن الموقع الجيد لا يتعلق بالمظهر فقط، بل بالوظيفة والسرعة.",
+    "stats_exp": "سنوات خبرة",
+    "stats_proj": "مشاريع منجزة",
+    "stats_happy": "رضا العملاء",
+    "cards": {
+      "frontend": "Frontend Dev",
+      "uiux": "UI/UX Design",
+      "perf": "Performance",
+      "seo": "SEO Friendly"
+    }
+  },
+  "portfolio": {
+    "label": "أعمالي",
+    "title": "أحدث",
+    "title_highlight": "المشاريع.",
+    "desc": "إليك بعض المشاريع المختارة التي عملت عليها.",
+    "btn_demo": "مشاهدة العرض",
+    "btn_code": "السورس كود",
+    "btn_all": "شاهد كل المشاريع"
+  },
+  "contact": {
+    "label": "تواصل معي",
+    "title": "لنعمل",
+    "title_highlight": "سوياً.",
+    "desc": "لديك فكرة مشروع؟ لا تتردد في الاتصال بي.",
+    "form_name": "الاسم",
+    "form_email": "البريد الإلكتروني",
+    "form_msg": "الرسالة",
+    "btn_send": "إرسال الرسالة"
+  }
+}

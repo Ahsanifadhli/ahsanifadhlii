@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "tech": "Skills",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "HELLO, I'M",
+    "role": "Web Developer",
+    "description": "I help businesses build unique, interactive, and result-oriented digital presence.",
+    "btn_hire": "Hire Me",
+    "btn_portfolio": "View Portfolio",
+    "typewriter": [
+      "Web & App Developer.",
+      "UI/UX Designer.",
+      "Freelancer.",
+      "AI Enthusiast."
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Passion Drives",
+    "subtitle_highlight": "Perfection.",
+    "desc_1": "Hello! I am a web developer dedicated to creating exceptional digital experiences.",
+    "desc_2": "I believe that a great website is not just about looking cool, but also functional and fast.",
+    "stats_exp": "Years Experience",
+    "stats_proj": "Projects Done",
+    "stats_happy": "Client Satisfaction",
+    "cards": {
+      "frontend": "Frontend Dev",
+      "uiux": "UI/UX Design",
+      "perf": "Performance",
+      "seo": "SEO Friendly"
+    }
+  },
+  "portfolio": {
+    "label": "My Work",
+    "title": "Recent",
+    "title_highlight": "Projects.",
+    "desc": "Here are some selected projects I've worked on.",
+    "btn_demo": "Live Demo",
+    "btn_code": "Source Code",
+    "btn_all": "View All Projects"
+  },
+  "contact": {
+    "label": "Get in Touch",
+    "title": "Let’s Work",
+    "title_highlight": "Together.",
+    "desc": "Have a project idea? Feel free to contact me.",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_msg": "Message",
+    "btn_send": "Send Message"
+  }
+}

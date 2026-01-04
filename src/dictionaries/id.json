@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "tech": "Keahlian",
+    "portfolio": "Portofolio",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "greeting": "HALO, SAYA",
+    "role": "Pengembang Web",
+    "description": "Saya membantu bisnis membangun kehadiran digital yang unik, interaktif, dan berorientasi pada hasil.",
+    "btn_hire": "Rekrut Saya",
+    "btn_portfolio": "Lihat Karya",
+    "typewriter": [
+      "Web & App Developer.",
+      "UI/UX Designer.",
+      "Freelancer.",
+      "AI Enthusiast."
+    ]
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "subtitle": "Passion Mendorong",
+    "subtitle_highlight": "Kesempurnaan.",
+    "desc_1": "Halo! Saya adalah pengembang web yang berdedikasi menciptakan pengalaman digital luar biasa.",
+    "desc_2": "Saya percaya website bagus bukan cuma soal keren, tapi juga fungsional dan cepat.",
+    "stats_exp": "Tahun Pengalaman",
+    "stats_proj": "Proyek Selesai",
+    "stats_happy": "Kepuasan Klien",
+    "cards": {
+      "frontend": "Frontend Dev",
+      "uiux": "UI/UX Design",
+      "perf": "Performa",
+      "seo": "SEO Friendly"
+    }
+  },
+  "portfolio": {
+    "label": "Karya Saya",
+    "title": "Proyek",
+    "title_highlight": "Terbaru.",
+    "desc": "Berikut adalah beberapa proyek pilihan yang telah saya kerjakan.",
+    "btn_demo": "Demo Langsung",
+    "btn_code": "Kode Sumber",
+    "btn_all": "Lihat Semua Proyek"
+  },
+  "contact": {
+    "label": "Hubungi Saya",
+    "title": "Mari Bekerja",
+    "title_highlight": "Sama.",
+    "desc": "Punya ide proyek? Jangan ragu untuk menghubungi saya.",
+    "form_name": "Nama",
+    "form_email": "Email",
+    "form_msg": "Pesan",
+    "btn_send": "Kirim Pesan"
+  }
+}

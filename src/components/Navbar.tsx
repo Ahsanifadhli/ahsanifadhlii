@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { motion, AnimatePresence, Variants } from "framer-motion"; // <-- Tambah Variants disini
+import { motion, AnimatePresence, Variants } from "framer-motion"; // <-- 1. Tambah Variants disini
 import { Menu, X } from "lucide-react";
 import Link from "next/link";
 
@@ -16,7 +16,7 @@ const navLinks = [
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
-  // Perbaikan: Tambahkan tipe data ': Variants' agar Vercel tidak error
+  // 2. Perbaikan: Tambahkan tipe data ': Variants' agar Vercel tidak error
   const menuVars: Variants = {
     initial: { scaleY: 0 },
     animate: {
